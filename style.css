@@ -1,0 +1,22 @@
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.nav-bg{
+    
+        background: #3AAFA9 !important;
+      
+}
+
+h1,p{
+    text-align: center;
+}
+
+body{
+   
+}
+
+.btn{
+    background-color: #374785;
+}
